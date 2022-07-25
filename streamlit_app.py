@@ -1,7 +1,6 @@
 import streamlit as st
 import cv2
 import numpy as np
-from datetime import datetime
 
 st.set_page_config(page_title="Little Tingz", page_icon="❤️", layout="centered", initial_sidebar_state="auto", menu_items=None)
 flag = False
